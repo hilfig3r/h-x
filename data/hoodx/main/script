@@ -1,0 +1,4965 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local HoodX = Instance.new("ScreenGui")
+local WhitelistFrame = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Pattern = Instance.new("ImageLabel")
+local Icon = Instance.new("ImageLabel")
+local UICorner_2 = Instance.new("UICorner")
+local UIGradient = Instance.new("UIGradient")
+local LocalPlayerText = Instance.new("TextLabel")
+local UIGradient_2 = Instance.new("UIGradient")
+local PlaceKey = Instance.new("TextBox")
+local UICorner_3 = Instance.new("UICorner")
+local UIGradient_3 = Instance.new("UIGradient")
+local Submit = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local Frame = Instance.new("Frame")
+local UICorner_5 = Instance.new("UICorner")
+local UIGradient_4 = Instance.new("UIGradient")
+local HoodX_2 = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local UIGradient_5 = Instance.new("UIGradient")
+local gps_not_fixed = Instance.new("ImageButton")
+local UIGradient_6 = Instance.new("UIGradient")
+local whatshot = Instance.new("ImageButton")
+local UIGradient_7 = Instance.new("UIGradient")
+local Frame_2 = Instance.new("Frame")
+local UICorner_6 = Instance.new("UICorner")
+local UIGradient_8 = Instance.new("UIGradient")
+local Frame_3 = Instance.new("Frame")
+local UICorner_7 = Instance.new("UICorner")
+local UIGradient_9 = Instance.new("UIGradient")
+local Frame_4 = Instance.new("Frame")
+local UICorner_8 = Instance.new("UICorner")
+local TextLabel_2 = Instance.new("TextLabel")
+local UIGradient_10 = Instance.new("UIGradient")
+local UIGradient_11 = Instance.new("UIGradient")
+local Frame_5 = Instance.new("Frame")
+local UICorner_9 = Instance.new("UICorner")
+local UIGradient_12 = Instance.new("UIGradient")
+local Frame_6 = Instance.new("Frame")
+local UIGradient_13 = Instance.new("UIGradient")
+local Frame_7 = Instance.new("Frame")
+local UICorner_10 = Instance.new("UICorner")
+local UIGradient_14 = Instance.new("UIGradient")
+local UIGradient_15 = Instance.new("UIGradient")
+local Frame_8 = Instance.new("Frame")
+local UICorner_11 = Instance.new("UICorner")
+local UIGradient_16 = Instance.new("UIGradient")
+local UICorner_12 = Instance.new("UICorner")
+local ImageLabel = Instance.new("ImageLabel")
+local Main = Instance.new("Frame")
+local UICorner_13 = Instance.new("UICorner")
+local FlyX = Instance.new("TextButton")
+local UICorner_14 = Instance.new("UICorner")
+local UIGradient_17 = Instance.new("UIGradient")
+local Pattern_2 = Instance.new("ImageLabel")
+local AimlockQ = Instance.new("TextButton")
+local UICorner_15 = Instance.new("UICorner")
+local UIGradient_18 = Instance.new("UIGradient")
+local SwagMode = Instance.new("TextButton")
+local UICorner_16 = Instance.new("UICorner")
+local UIGradient_19 = Instance.new("UIGradient")
+local Fadded = Instance.new("TextButton")
+local UICorner_17 = Instance.new("UICorner")
+local UIGradient_20 = Instance.new("UIGradient")
+local Pattern_3 = Instance.new("ImageLabel")
+local account_box = Instance.new("ImageButton")
+local UIGradient_21 = Instance.new("UIGradient")
+local account_box_2 = Instance.new("ImageButton")
+local UIGradient_22 = Instance.new("UIGradient")
+local clear = Instance.new("ImageButton")
+local UIGradient_23 = Instance.new("UIGradient")
+local CloseUI = Instance.new("TextButton")
+local UIGradient_24 = Instance.new("UIGradient")
+local Text = Instance.new("TextLabel")
+local UIGradient_25 = Instance.new("UIGradient")
+local LocalPlayerText_2 = Instance.new("TextLabel")
+local UIGradient_26 = Instance.new("UIGradient")
+local Frame_9 = Instance.new("Frame")
+local UICorner_18 = Instance.new("UICorner")
+local UIGradient_27 = Instance.new("UIGradient")
+local AimingText = Instance.new("TextLabel")
+local UIGradient_28 = Instance.new("UIGradient")
+local Frame_10 = Instance.new("Frame")
+local UICorner_19 = Instance.new("UICorner")
+local UIGradient_29 = Instance.new("UIGradient")
+local OtherText = Instance.new("TextLabel")
+local UIGradient_30 = Instance.new("UIGradient")
+
+--Properties:
+
+HoodX.Name = "HoodX"
+HoodX.Parent = game.CoreGui
+
+WhitelistFrame.Name = "Whitelist Frame"
+WhitelistFrame.Parent = HoodX
+WhitelistFrame.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+WhitelistFrame.Position = UDim2.new(0.434027821, 0, 0.350797266, 0)
+WhitelistFrame.Size = UDim2.new(0, 188, 0, 262)
+WhitelistFrame.ZIndex = 0
+WhitelistFrame.Active = true
+WhitelistFrame.Draggable = true
+
+UICorner.CornerRadius = UDim.new(0, 5)
+UICorner.Parent = WhitelistFrame
+
+Pattern.Name = "Pattern"
+Pattern.Parent = WhitelistFrame
+Pattern.AnchorPoint = Vector2.new(0.5, 0.5)
+Pattern.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Pattern.BackgroundTransparency = 1.000
+Pattern.Position = UDim2.new(0.501894712, 0, 0.499362618, 0)
+Pattern.Size = UDim2.new(0, 187, 0, 261)
+Pattern.Image = "rbxassetid://300134974"
+Pattern.ImageTransparency = 0.990
+Pattern.ScaleType = Enum.ScaleType.Tile
+Pattern.SliceCenter = Rect.new(0, 256, 0, 256)
+Pattern.TileSize = UDim2.new(0, 30, 0, 30)
+
+Icon.Name = "Icon"
+Icon.Parent = WhitelistFrame
+Icon.AnchorPoint = Vector2.new(0.5, 0.5)
+Icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Icon.Position = UDim2.new(0.496987849, 0, 0.259541988, 0)
+Icon.Size = UDim2.new(0.452937543, 0, 0.32688272, 0)
+Icon.Image = "rbxassetid://2795572800"
+Icon.ScaleType = Enum.ScaleType.Fit
+
+UICorner_2.CornerRadius = UDim.new(0, 5)
+UICorner_2.Parent = Icon
+
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient.Parent = Icon
+
+LocalPlayerText.Name = "Local Player Text"
+LocalPlayerText.Parent = WhitelistFrame
+LocalPlayerText.Active = true
+LocalPlayerText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LocalPlayerText.BackgroundTransparency = 1.000
+LocalPlayerText.Position = UDim2.new(0.0532778502, 0, 0.422067881, 0)
+LocalPlayerText.Size = UDim2.new(0, 168, 0, 36)
+LocalPlayerText.ZIndex = 11
+LocalPlayerText.Font = Enum.Font.SourceSansBold
+LocalPlayerText.Text = "Welcome"
+LocalPlayerText.TextColor3 = Color3.fromRGB(229, 229, 229)
+LocalPlayerText.TextSize = 26.000
+LocalPlayerText.TextWrapped = true
+
+UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_2.Parent = LocalPlayerText
+
+PlaceKey.Name = "PlaceKey"
+PlaceKey.Parent = WhitelistFrame
+PlaceKey.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+PlaceKey.Position = UDim2.new(0.0532778464, 0, 0.55725193, 0)
+PlaceKey.Size = UDim2.new(0, 167, 0, 41)
+PlaceKey.Font = Enum.Font.SourceSansBold
+PlaceKey.PlaceholderText = "Imput Key"
+PlaceKey.Text = ""
+PlaceKey.TextColor3 = Color3.fromRGB(255, 255, 255)
+PlaceKey.TextSize = 26.000
+
+UICorner_3.CornerRadius = UDim.new(0, 5)
+UICorner_3.Parent = PlaceKey
+
+UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_3.Parent = PlaceKey
+
+Submit.Name = "Submit"
+Submit.Parent = WhitelistFrame
+Submit.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Submit.Position = UDim2.new(0.121501192, 0, 0.768911541, 0)
+Submit.Size = UDim2.new(0, 143, 0, 43)
+Submit.ZIndex = 12
+Submit.Font = Enum.Font.SourceSansBold
+Submit.Text = "Submit"
+Submit.TextColor3 = Color3.fromRGB(235, 235, 235)
+Submit.TextSize = 22.000
+Submit.MouseButton1Down:connect(function()
+	if PlaceKey.Text == "Hood X Is Cool" then
+		WhitelistFrame.Visible = false
+		HoodX_2.Visible = true
+	end
+end)
+UICorner_4.CornerRadius = UDim.new(0, 5)
+UICorner_4.Parent = Submit
+
+Frame.Parent = WhitelistFrame
+Frame.Active = true
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.Position = UDim2.new(-0.0254896451, 0, -0.0230135154, 0)
+Frame.Size = UDim2.new(0, 198, 0, 273)
+Frame.ZIndex = -500
+
+UICorner_5.CornerRadius = UDim.new(0, 5)
+UICorner_5.Parent = Frame
+
+UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_4.Parent = Frame
+
+HoodX_2.Name = "Hood X"
+HoodX_2.Parent = HoodX
+HoodX_2.Active = true
+HoodX_2.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+HoodX_2.Position = UDim2.new(0.326345503, 0, 0.253280014, 0)
+HoodX_2.Size = UDim2.new(0, 500, 0, 401)
+HoodX_2.Visible = false
+HoodX_2.ZIndex = 0
+HoodX_2.Active = true
+HoodX_2.Draggable = true
+
+TextLabel.Parent = HoodX_2
+TextLabel.Active = true
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(-0.110085204, 0, -0.0202312134, 0)
+TextLabel.Size = UDim2.new(0, 221, 0, 51)
+TextLabel.ZIndex = 5
+TextLabel.Font = Enum.Font.SourceSansSemibold
+TextLabel.Text = "               Hood X v.1.5"
+TextLabel.TextColor3 = Color3.fromRGB(253, 253, 253)
+TextLabel.TextSize = 25.000
+
+UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_5.Parent = TextLabel
+
+gps_not_fixed.Name = "gps_not_fixed"
+gps_not_fixed.Parent = HoodX_2
+gps_not_fixed.BackgroundTransparency = 1.000
+gps_not_fixed.Position = UDim2.new(0.396000028, 0, 0.416645527, 0)
+gps_not_fixed.Size = UDim2.new(0, 21, 0, 21)
+gps_not_fixed.ZIndex = 15
+gps_not_fixed.Image = "rbxassetid://3926305904"
+gps_not_fixed.ImageRectOffset = Vector2.new(484, 44)
+gps_not_fixed.ImageRectSize = Vector2.new(36, 36)
+
+UIGradient_6.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_6.Parent = gps_not_fixed
+
+whatshot.Name = "whatshot"
+whatshot.Parent = HoodX_2
+whatshot.BackgroundTransparency = 1.000
+whatshot.LayoutOrder = 8
+whatshot.Position = UDim2.new(-0.000807267614, 0, 0.0117346868, 0)
+whatshot.Size = UDim2.new(0, 25, 0, 25)
+whatshot.ZIndex = 2
+whatshot.Image = "rbxassetid://3926307971"
+whatshot.ImageRectOffset = Vector2.new(644, 444)
+whatshot.ImageRectSize = Vector2.new(36, 36)
+
+UIGradient_7.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_7.Parent = whatshot
+
+Frame_2.Parent = HoodX_2
+Frame_2.Active = true
+Frame_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_2.Position = UDim2.new(-0.0201704092, 0, -0.0115630496, 0)
+Frame_2.Size = UDim2.new(0, 520, 0, 417)
+Frame_2.ZIndex = -500
+
+UICorner_6.CornerRadius = UDim.new(0, 5)
+UICorner_6.Parent = Frame_2
+
+UIGradient_8.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_8.Parent = Frame_2
+
+Frame_3.Parent = HoodX_2
+Frame_3.Active = true
+Frame_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_3.Position = UDim2.new(0.0199999996, 0, 0.12969704, 0)
+Frame_3.Size = UDim2.new(0, 482, 0, 310)
+
+UICorner_7.CornerRadius = UDim.new(0, 5)
+UICorner_7.Parent = Frame_3
+
+UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_9.Parent = Frame_3
+
+Frame_4.Parent = HoodX_2
+Frame_4.Active = true
+Frame_4.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_4.Position = UDim2.new(-0.0121704098, 0, 0.919947088, 0)
+Frame_4.Size = UDim2.new(0, 513, 0, 38)
+
+UICorner_8.CornerRadius = UDim.new(0, 5)
+UICorner_8.Parent = Frame_4
+
+TextLabel_2.Parent = Frame_4
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0.30094105, 0, -0.3225483, 0)
+TextLabel_2.Size = UDim2.new(0, 200, 0, 57)
+TextLabel_2.Font = Enum.Font.Oswald
+TextLabel_2.Text = "Made By Hilfig3r#2693"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextSize = 18.000
+
+UIGradient_10.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_10.Parent = TextLabel_2
+
+UIGradient_11.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_11.Parent = Frame_4
+
+Frame_5.Parent = HoodX_2
+Frame_5.Active = true
+Frame_5.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_5.Position = UDim2.new(0.0282271728, 0, 0.138367608, 0)
+Frame_5.Size = UDim2.new(0, 474, 0, 301)
+Frame_5.ZIndex = 2
+
+UICorner_9.CornerRadius = UDim.new(0, 5)
+UICorner_9.Parent = Frame_5
+
+UIGradient_12.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_12.Parent = Frame_5
+
+Frame_6.Parent = HoodX_2
+Frame_6.Active = true
+Frame_6.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_6.BorderSizePixel = 0
+Frame_6.Position = UDim2.new(0.998227179, 0, 0.0765838251, 0)
+Frame_6.Size = UDim2.new(0, 7, 0, 370)
+Frame_6.ZIndex = 21
+
+UIGradient_13.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_13.Parent = Frame_6
+
+Frame_7.Parent = HoodX_2
+Frame_7.Active = true
+Frame_7.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_7.Position = UDim2.new(-0.0121704098, 0, 0, 0)
+Frame_7.Size = UDim2.new(0, 513, 0, 401)
+Frame_7.ZIndex = -100
+
+UICorner_10.CornerRadius = UDim.new(0, 5)
+UICorner_10.Parent = Frame_7
+
+UIGradient_14.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(0.07, Color3.fromRGB(184, 184, 184)), ColorSequenceKeypoint.new(0.23, Color3.fromRGB(194, 194, 194)), ColorSequenceKeypoint.new(0.49, Color3.fromRGB(245, 245, 245)), ColorSequenceKeypoint.new(0.67, Color3.fromRGB(232, 232, 232)), ColorSequenceKeypoint.new(0.85, Color3.fromRGB(194, 194, 194)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(222, 222, 222))}
+UIGradient_14.Parent = Frame_7
+
+UIGradient_15.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_15.Parent = Frame_7
+
+Frame_8.Parent = HoodX_2
+Frame_8.Active = true
+Frame_8.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_8.Position = UDim2.new(-0.0121704098, 0, 0, 0)
+Frame_8.Size = UDim2.new(0, 513, 0, 34)
+
+UICorner_11.CornerRadius = UDim.new(0, 5)
+UICorner_11.Parent = Frame_8
+
+UIGradient_16.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_16.Parent = Frame_8
+
+UICorner_12.CornerRadius = UDim.new(0, 5)
+UICorner_12.Parent = HoodX_2
+
+ImageLabel.Parent = HoodX_2
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.Position = UDim2.new(-0.333999991, 0, -0.225433499, 0)
+ImageLabel.Size = UDim2.new(0, 802, 0, 566)
+ImageLabel.ZIndex = -1000
+ImageLabel.Image = "http://www.roblox.com/asset/?id=6216780861"
+
+Main.Name = "Main"
+Main.Parent = HoodX_2
+Main.Active = true
+Main.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+Main.Position = UDim2.new(0.0531927496, 0, 0.173049659, 0)
+Main.Size = UDim2.new(0, 450, 0, 274)
+Main.ZIndex = 7
+
+UICorner_13.CornerRadius = UDim.new(0, 5)
+UICorner_13.Parent = Main
+
+FlyX.Name = "Fly X"
+FlyX.Parent = Main
+FlyX.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+FlyX.Position = UDim2.new(0.0684516057, 0, 0.149254009, 0)
+FlyX.Size = UDim2.new(0, 389, 0, 29)
+FlyX.ZIndex = 12
+FlyX.Font = Enum.Font.SourceSansBold
+FlyX.Text = "Fly [X]"
+FlyX.TextColor3 = Color3.fromRGB(235, 235, 235)
+FlyX.TextSize = 22.000
+FlyX.MouseButton1Down:connect(function()
+	local plr = game.Players.LocalPlayer
+	local mouse = plr:GetMouse()
+
+	localplayer = plr
+
+	if workspace:FindFirstChild("Core") then
+		workspace.Core:Destroy()
+	end
+
+	local Core = Instance.new("Part")
+	Core.Name = "Core"
+	Core.Size = Vector3.new(0.05, 0.05, 0.05)
+
+	spawn(function()
+		Core.Parent = workspace
+		local Weld = Instance.new("Weld", Core)
+		Weld.Part0 = Core
+		Weld.Part1 = localplayer.Character.LowerTorso
+		Weld.C0 = CFrame.new(0, 0, 0)
+	end)
+
+	workspace:WaitForChild("Core")
+
+	local torso = workspace.Core
+	flying = true
+	local speed=10
+	local keys={a=false,d=false,w=false,s=false} 
+	local e1
+	local e2
+	local function start()
+		local pos = Instance.new("BodyPosition",torso)
+		local gyro = Instance.new("BodyGyro",torso)
+		pos.Name="EPIXPOS"
+		pos.maxForce = Vector3.new(math.huge, math.huge, math.huge)
+		pos.position = torso.Position
+		gyro.maxTorque = Vector3.new(9e9, 9e9, 9e9) 
+		gyro.cframe = torso.CFrame
+		repeat
+			wait()
+			localplayer.Character.Humanoid.PlatformStand=true
+			local new=gyro.cframe - gyro.cframe.p + pos.position
+			if not keys.w and not keys.s and not keys.a and not keys.d then
+				speed=10
+			end
+			if keys.w then 
+				new = new + workspace.CurrentCamera.CoordinateFrame.lookVector * speed
+				speed=speed+0
+			end
+			if keys.s then 
+				new = new - workspace.CurrentCamera.CoordinateFrame.lookVector * speed
+				speed=speed+0
+			end
+			if keys.d then 
+				new = new * CFrame.new(speed,0,0)
+				speed=speed+0
+			end
+			if keys.a then 
+				new = new * CFrame.new(-speed,0,0)
+				speed=speed+0
+			end
+			if speed>15 then
+				speed=10
+			end
+			pos.position=new.p
+			if keys.w then
+				gyro.cframe = workspace.CurrentCamera.CoordinateFrame*CFrame.Angles(-math.rad(speed*0),0,0)
+			elseif keys.s then
+				gyro.cframe = workspace.CurrentCamera.CoordinateFrame*CFrame.Angles(math.rad(speed*0),0,0)
+			else
+				gyro.cframe = workspace.CurrentCamera.CoordinateFrame
+			end
+		until flying == false
+		if gyro then gyro:Destroy() end
+		if pos then pos:Destroy() end
+		flying=false
+		localplayer.Character.Humanoid.PlatformStand=false
+		speed=15
+	end
+	e1=mouse.KeyDown:connect(function(key)
+		if not torso or not torso.Parent then flying=false e1:disconnect() e2:disconnect() return end
+		if key=="w" then
+			keys.w=true
+		elseif key=="s" then
+			keys.s=true
+		elseif key=="a" then
+			keys.a=true
+		elseif key=="d" then
+			keys.d=true
+		elseif key=="x" then
+			if flying==true then
+				flying=false
+			else
+				flying=true
+				start()
+			end
+		end
+	end)
+	e2=mouse.KeyUp:connect(function(key)
+		if key=="w" then
+			keys.w=false
+		elseif key=="s" then
+			keys.s=false
+		elseif key=="a" then
+			keys.a=false
+		elseif key=="d" then
+			keys.d=false
+		end
+	end)
+	start()
+end)
+UICorner_14.CornerRadius = UDim.new(0, 5)
+UICorner_14.Parent = FlyX
+
+UIGradient_17.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_17.Parent = FlyX
+
+Pattern_2.Name = "Pattern"
+Pattern_2.Parent = Main
+Pattern_2.AnchorPoint = Vector2.new(0.5, 0.5)
+Pattern_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Pattern_2.BackgroundTransparency = 1.000
+Pattern_2.Position = UDim2.new(0.500446081, 0, 0.498832405, 0)
+Pattern_2.Size = UDim2.new(0, 449, 0, 271)
+Pattern_2.ZIndex = 11
+Pattern_2.Image = "rbxassetid://300134974"
+Pattern_2.ImageTransparency = 0.990
+Pattern_2.ScaleType = Enum.ScaleType.Tile
+Pattern_2.SliceCenter = Rect.new(0, 256, 0, 256)
+Pattern_2.TileSize = UDim2.new(0, 30, 0, 30)
+
+AimlockQ.Name = "Aimlock Q"
+AimlockQ.Parent = Main
+AimlockQ.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+AimlockQ.Position = UDim2.new(0.0662293807, 0, 0.490564197, 0)
+AimlockQ.Size = UDim2.new(0, 389, 0, 29)
+AimlockQ.ZIndex = 12
+AimlockQ.Font = Enum.Font.SourceSansBold
+AimlockQ.Text = "Aimlock [Q]"
+AimlockQ.TextColor3 = Color3.fromRGB(235, 235, 235)
+AimlockQ.TextSize = 22.000
+AimlockQ.MouseButton1Down:connect(function()
+	local Settings = {
+		rewrittenmain = {
+			Enabled = true,
+			Key = "q",
+			DOT = true,
+			AIRSHOT = true,
+			NOTIF = true,
+			AUTOPRED = false,
+			FOV = math.huge,
+			RESOVLER = false
+		}
+	}
+
+	local SelectedPart = "HumanoidRootPart"
+	local Prediction = true
+	local PredictionValue = 0.146
+
+
+	local AnchorCount = 0
+	local MaxAnchor = 50
+
+	local CC = game:GetService"Workspace".CurrentCamera
+	local Plr;
+	local enabled = false
+	local accomidationfactor = 0.139
+	local mouse = game.Players.LocalPlayer:GetMouse()
+	local placemarker = Instance.new("Part", game.Workspace)
+
+	function makemarker(Parent, Adornee, Color, Size, Size2)
+		local e = Instance.new("BillboardGui", Parent)
+		e.Name = "PP"
+		e.Adornee = Adornee
+		e.Size = UDim2.new(Size, Size2, Size, Size2)
+		e.AlwaysOnTop = Settings.rewrittenmain.DOT
+		local a = Instance.new("Frame", e)
+		if Settings.rewrittenmain.DOT == true then
+			a.Size = UDim2.new(1, 0, 1, 0)
+		else
+			a.Size = UDim2.new(0, 0, 0, 0)
+		end
+		if Settings.rewrittenmain.DOT == true then
+			a.Transparency = 0
+			a.BackgroundTransparency = 0
+		else
+			a.Transparency = 1
+			a.BackgroundTransparency = 1
+		end
+		a.BackgroundColor3 = Color
+		local g = Instance.new("UICorner", a)
+		if Settings.rewrittenmain.DOT == false then
+			g.CornerRadius = UDim.new(0, 0)
+		else
+			g.CornerRadius = UDim.new(1, 1) 
+		end
+		return(e)
+	end
+
+
+	local data = game.Players:GetPlayers()
+	function noob(player)
+		local character
+		repeat wait() until player.Character
+		local handler = makemarker(guimain, player.Character:WaitForChild(SelectedPart), Color3.fromRGB(107, 184, 255), 0.3, 3)
+		handler.Name = player.Name
+		player.CharacterAdded:connect(function(Char) handler.Adornee = Char:WaitForChild(SelectedPart) end)
+
+
+		spawn(function()
+			while wait() do
+				if player.Character then
+				end
+			end
+		end)
+	end
+
+	for i = 1, #data do
+		if data[i] ~= game.Players.LocalPlayer then
+			noob(data[i])
+		end
+	end
+
+	game.Players.PlayerAdded:connect(function(Player)
+		noob(Player)
+	end)
+
+	spawn(function()
+		placemarker.Anchored = true
+		placemarker.CanCollide = false
+		if Settings.rewrittenmain.DOT == true then
+			placemarker.Size = Vector3.new(8, 8, 8)
+		else
+			placemarker.Size = Vector3.new(0, 0, 0)
+		end
+		placemarker.Transparency = 0.75
+		if Settings.rewrittenmain.DOT then
+			makemarker(placemarker, placemarker, Color3.fromRGB(0, 255, 17), 0.40, 0)
+		end
+	end)
+
+	game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(k)
+		if k == Settings.rewrittenmain.Key and Settings.rewrittenmain.Enabled then
+			if enabled == true then
+				enabled = false
+				if Settings.rewrittenmain.NOTIF == true then
+					Plr = getClosestPlayerToCursor()
+					game.StarterGui:SetCore("SendNotification", {
+						Title = "Hood X Aimlock";
+						Text = "Unlocked",
+						Duration = 5
+					})
+				end
+			else
+				Plr = getClosestPlayerToCursor()
+				enabled = true
+				if Settings.rewrittenmain.NOTIF == true then
+
+					game.StarterGui:SetCore("SendNotification", {
+						Title = "Hood X Aimlock";
+						Text = "Target - "..tostring(Plr.Character.Humanoid.DisplayName),
+						Duration = 5
+					})
+
+				end
+			end
+		end
+	end)
+
+
+
+	function getClosestPlayerToCursor()
+		local closestPlayer
+		local shortestDistance = Settings.rewrittenmain.FOV
+
+		for i, v in pairs(game.Players:GetPlayers()) do
+			if v ~= game.Players.LocalPlayer and v.Character and v.Character:FindFirstChild("Humanoid") and v.Character.Humanoid.Health ~= 0 and v.Character:FindFirstChild("HumanoidRootPart") then
+				local pos = CC:WorldToViewportPoint(v.Character.PrimaryPart.Position)
+				local magnitude = (Vector2.new(pos.X, pos.Y) - Vector2.new(mouse.X, mouse.Y)).magnitude
+				if magnitude < shortestDistance then
+					closestPlayer = v
+					shortestDistance = magnitude
+				end
+			end
+		end
+		return closestPlayer
+	end
+
+	local pingvalue = nil;
+	local split = nil;
+	local ping = nil;
+
+	game:GetService"RunService".Stepped:connect(function()
+		if enabled and Plr.Character ~= nil and Plr.Character:FindFirstChild("HumanoidRootPart") then
+			placemarker.CFrame = CFrame.new(Plr.Character.HumanoidRootPart.Position+(Plr.Character.HumanoidRootPart.Velocity*accomidationfactor))
+		else
+			placemarker.CFrame = CFrame.new(0, 9999, 0)
+		end
+		if Settings.rewrittenmain.AUTOPRED == true then
+			pingvalue = game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString()
+			split = string.split(pingvalue,'(')
+			ping = tonumber(split[1])
+			if ping < 130 then
+				PredictionValue = 0.151
+			elseif ping < 125 then
+				PredictionValue = 0.149
+			elseif ping < 110 then
+				PredictionValue = 0.146
+			elseif ping < 105 then
+				PredictionValue = 0.138
+			elseif ping < 90 then
+				PredictionValue = 0.136
+			elseif ping < 80 then
+				PredictionValue = 0.134
+			elseif ping < 70 then
+				PredictionValue = 0.131
+			elseif ping < 60 then
+				PredictionValue = 0.1229
+			elseif ping < 50 then
+				PredictionValue = 0.1225
+			elseif ping < 40 then
+				PredictionValue = 0.1256
+			end
+		end
+	end)
+
+	local mt = getrawmetatable(game)
+	local old = mt.__namecall
+	setreadonly(mt, false)
+	mt.__namecall = newcclosure(function(...)
+		local args = {...}
+		if enabled and getnamecallmethod() == "FireServer" and args[2] == "UpdateMousePos" and Settings.rewrittenmain.Enabled and Plr.Character ~= nil then
+
+			-- args[3] = Plr.Character.HumanoidRootPart.Position+(Plr.Character.HumanoidRootPart.Velocity*accomidationfactor)
+            --[[
+            if Settings.rewrittenmain.AIRSHOT == true then
+                if game.Workspace.Players[Plr.Name].Humanoid:GetState() == Enum.HumanoidStateType.Freefall then -- Plr.Character:WaitForChild("Humanoid"):GetState() == Enum.HumanoidStateType.Freefall
+ 
+                    --// Airshot
+                    args[3] = Plr.Character.LeftFoot.Position+(Plr.Character.LeftFoot.Velocity*PredictionValue)
+ 
+                else
+                    args[3] = Plr.Character.HumanoidRootPart.Position+(Plr.Character.HumanoidRootPart.Velocity*PredictionValue)
+ 
+                end
+            else
+                    args[3] = Plr.Character.HumanoidRootPart.Position+(Plr.Character.HumanoidRootPart.Velocity*PredictionValue)
+            end
+            ]]
+			if Prediction == true then
+
+				args[3] = Plr.Character[SelectedPart].Position+(Plr.Character[SelectedPart].Velocity*PredictionValue)
+
+			else
+
+				args[3] = Plr.Character[SelectedPart].Position
+
+			end
+
+			return old(unpack(args))
+		end
+		return old(...)
+	end)
+
+	game:GetService("RunService").RenderStepped:Connect(function()
+		if Settings.rewrittenmain.RESOVLER == true and Plr.Character ~= nil and enabled and Settings.rewrittenmain.Enabled then
+			if Settings.rewrittenmain.AIRSHOT == true and enabled and Plr.Character ~= nil then
+
+				if game.Workspace.Players[Plr.Name].Humanoid:GetState() == Enum.HumanoidStateType.Freefall then -- Plr.Character:WaitForChild("Humanoid"):GetState() == Enum.HumanoidStateType.Freefall
+
+					--// Airshot
+
+					--// Anchor Check
+
+					if Plr.Character ~= nil and Plr.Character.HumanoidRootPart.Anchored == true then
+						AnchorCount = AnchorCount + 1
+						if AnchorCount >= MaxAnchor then
+							Prediction = false
+							wait(2)
+							AnchorCount = 0;
+						end
+					else
+						Prediction = true
+						AnchorCount = 0;
+					end
+
+					SelectedPart = "LeftFoot"
+
+				else
+					--// Anchor Check
+
+					if Plr.Character ~= nil and Plr.Character.HumanoidRootPart.Anchored == true then
+						AnchorCount = AnchorCount + 1
+						if AnchorCount >= MaxAnchor then
+							Prediction = false
+							wait(2)
+							AnchorCount = 0;
+						end
+					else
+						Prediction = true
+						AnchorCount = 0;
+					end
+
+					SelectedPart = "HumanoidRootPart"
+
+				end
+			else
+
+				--// Anchor Check
+
+				if Plr.Character ~= nil and Plr.Character.HumanoidRootPart.Anchored == true then
+					AnchorCount = AnchorCount + 1
+					if AnchorCount >= MaxAnchor then
+						Prediction = false
+						wait(2)
+						AnchorCount = 0;
+					end
+				else
+					Prediction = true
+					AnchorCount = 0;
+				end
+
+				SelectedPart = "HumanoidRootPart"
+			end
+
+		else
+			SelectedPart = "HumanoidRootPart"
+		end
+	end)
+end)
+UICorner_15.CornerRadius = UDim.new(0, 5)
+UICorner_15.Parent = AimlockQ
+
+UIGradient_18.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_18.Parent = AimlockQ
+
+SwagMode.Name = "SwagMode"
+SwagMode.Parent = Main
+SwagMode.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+SwagMode.Position = UDim2.new(0.0662293807, 0, 0.829980195, 0)
+SwagMode.Size = UDim2.new(0, 189, 0, 29)
+SwagMode.ZIndex = 12
+SwagMode.Font = Enum.Font.SourceSansBold
+SwagMode.Text = "Load SwagMode"
+SwagMode.TextColor3 = Color3.fromRGB(235, 235, 235)
+SwagMode.TextSize = 22.000
+SwagMode.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+end)
+UICorner_16.CornerRadius = UDim.new(0, 5)
+UICorner_16.Parent = SwagMode
+
+UIGradient_19.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_19.Parent = SwagMode
+
+Fadded.Name = "Fadded"
+Fadded.Parent = Main
+Fadded.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Fadded.Position = UDim2.new(0.515118301, 0, 0.829980195, 0)
+Fadded.Size = UDim2.new(0, 188, 0, 29)
+Fadded.ZIndex = 12
+Fadded.Font = Enum.Font.SourceSansBold
+Fadded.Text = "Load Faded"
+Fadded.TextColor3 = Color3.fromRGB(235, 235, 235)
+Fadded.TextSize = 22.000
+Fadded.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
+end)
+UICorner_17.CornerRadius = UDim.new(0, 5)
+UICorner_17.Parent = Fadded
+
+UIGradient_20.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_20.Parent = Fadded
+
+Pattern_3.Name = "Pattern"
+Pattern_3.Parent = HoodX_2
+Pattern_3.AnchorPoint = Vector2.new(0.5, 0.5)
+Pattern_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Pattern_3.BackgroundTransparency = 1.000
+Pattern_3.Position = UDim2.new(0.49911353, 0, 0.497450292, 0)
+Pattern_3.Size = UDim2.new(0, 499, 0, 338)
+Pattern_3.Image = "rbxassetid://300134974"
+Pattern_3.ImageTransparency = 0.990
+Pattern_3.ScaleType = Enum.ScaleType.Tile
+Pattern_3.SliceCenter = Rect.new(0, 256, 0, 256)
+Pattern_3.TileSize = UDim2.new(0, 30, 0, 30)
+
+account_box.Name = "account_box"
+account_box.Parent = HoodX_2
+account_box.BackgroundTransparency = 1.000
+account_box.Position = UDim2.new(0.355838627, 0, 0.192190722, 0)
+account_box.Size = UDim2.new(0, 21, 0, 21)
+account_box.ZIndex = 12
+account_box.Image = "rbxassetid://3926307971"
+account_box.ImageRectOffset = Vector2.new(124, 44)
+account_box.ImageRectSize = Vector2.new(36, 36)
+
+UIGradient_21.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_21.Parent = account_box
+
+account_box_2.Name = "account_box"
+account_box_2.Parent = HoodX_2
+account_box_2.BackgroundTransparency = 1.000
+account_box_2.Position = UDim2.new(0.397838622, 0, 0.652600408, 0)
+account_box_2.Size = UDim2.new(0, 21, 0, 21)
+account_box_2.ZIndex = 12
+account_box_2.Image = "rbxassetid://3926305904"
+account_box_2.ImageRectOffset = Vector2.new(124, 44)
+account_box_2.ImageRectSize = Vector2.new(36, 36)
+
+UIGradient_22.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_22.Parent = account_box_2
+
+clear.Name = "clear"
+clear.Parent = HoodX_2
+clear.BackgroundTransparency = 1.000
+clear.Position = UDim2.new(0.949786484, 0, 0.013977915, 0)
+clear.Size = UDim2.new(0, 25, 0, 25)
+clear.ZIndex = 2
+clear.Image = "rbxassetid://3926305904"
+clear.ImageRectOffset = Vector2.new(924, 724)
+clear.ImageRectSize = Vector2.new(36, 36)
+
+UIGradient_23.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_23.Parent = clear
+
+CloseUI.Name = "CloseUI"
+CloseUI.Parent = HoodX_2
+CloseUI.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CloseUI.BackgroundTransparency = 1.000
+CloseUI.Position = UDim2.new(0.949786603, 0, 0, 0)
+CloseUI.Size = UDim2.new(0, 25, 0, 29)
+CloseUI.ZIndex = 10
+CloseUI.Font = Enum.Font.SourceSans
+CloseUI.Text = " "
+CloseUI.TextColor3 = Color3.fromRGB(0, 0, 0)
+CloseUI.TextSize = 14.000
+CloseUI.MouseButton1Down:connect(function()
+	HoodX_2.Visible = false
+end)
+UIGradient_24.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_24.Parent = CloseUI
+
+Text.Name = "Text"
+Text.Parent = HoodX_2
+Text.Active = true
+Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Text.BackgroundTransparency = 1.000
+Text.Position = UDim2.new(0.281914771, 0, -0.0260115601, 0)
+Text.Size = UDim2.new(0, 221, 0, 51)
+Text.ZIndex = 5
+Text.Font = Enum.Font.SourceSansSemibold
+Text.Text = "Da Hood"
+Text.TextColor3 = Color3.fromRGB(253, 253, 253)
+Text.TextSize = 34.000
+
+UIGradient_25.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_25.Parent = Text
+
+LocalPlayerText_2.Name = "Local Player Text"
+LocalPlayerText_2.Parent = HoodX_2
+LocalPlayerText_2.Active = true
+LocalPlayerText_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LocalPlayerText_2.BackgroundTransparency = 1.000
+LocalPlayerText_2.Position = UDim2.new(0.33519274, 0, 0.170159489, 0)
+LocalPlayerText_2.Size = UDim2.new(0, 168, 0, 36)
+LocalPlayerText_2.ZIndex = 11
+LocalPlayerText_2.Font = Enum.Font.SourceSansBold
+LocalPlayerText_2.Text = "Local Player"
+LocalPlayerText_2.TextColor3 = Color3.fromRGB(229, 229, 229)
+LocalPlayerText_2.TextSize = 21.000
+
+UIGradient_26.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_26.Parent = LocalPlayerText_2
+
+Frame_9.Parent = HoodX_2
+Frame_9.Active = true
+Frame_9.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_9.Position = UDim2.new(0.070227176, 0, 0.369466066, 0)
+Frame_9.Size = UDim2.new(0, 426, 0, 10)
+Frame_9.ZIndex = 11
+
+UICorner_18.CornerRadius = UDim.new(0, 5)
+UICorner_18.Parent = Frame_9
+
+UIGradient_27.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_27.Parent = Frame_9
+
+AimingText.Name = "Aiming Text"
+AimingText.Parent = HoodX_2
+AimingText.Active = true
+AimingText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AimingText.BackgroundTransparency = 1.000
+AimingText.Position = UDim2.new(0.333192736, 0, 0.404032916, 0)
+AimingText.Size = UDim2.new(0, 168, 0, 36)
+AimingText.ZIndex = 11
+AimingText.Font = Enum.Font.SourceSansBold
+AimingText.Text = "Aiming"
+AimingText.TextColor3 = Color3.fromRGB(229, 229, 229)
+AimingText.TextSize = 21.000
+
+UIGradient_28.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_28.Parent = AimingText
+
+Frame_10.Parent = HoodX_2
+Frame_10.Active = true
+Frame_10.BackgroundColor3 = Color3.fromRGB(52, 52, 52)
+Frame_10.Position = UDim2.new(0.070227176, 0, 0.599144697, 0)
+Frame_10.Size = UDim2.new(0, 426, 0, 10)
+Frame_10.ZIndex = 11
+
+UICorner_19.CornerRadius = UDim.new(0, 5)
+UICorner_19.Parent = Frame_10
+
+UIGradient_29.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_29.Parent = Frame_10
+
+OtherText.Name = "Other Text"
+OtherText.Parent = HoodX_2
+OtherText.Active = true
+OtherText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+OtherText.BackgroundTransparency = 1.000
+OtherText.Position = UDim2.new(0.333192736, 0, 0.635953128, 0)
+OtherText.Size = UDim2.new(0, 168, 0, 36)
+OtherText.ZIndex = 11
+OtherText.Font = Enum.Font.SourceSansBold
+OtherText.Text = "Other"
+OtherText.TextColor3 = Color3.fromRGB(229, 229, 229)
+OtherText.TextSize = 21.000
+
+UIGradient_30.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(207, 207, 207)), ColorSequenceKeypoint.new(0.44, Color3.fromRGB(200, 200, 200)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(193, 193, 193))}
+UIGradient_30.Parent = OtherText
+
+-- Scripts:
+
+local function MXNI_fake_script() -- Icon.LocalScript 
+	local script = Instance.new('LocalScript', Icon)
+
+	local image = script.Parent.Parent:WaitForChild("Icon")
+	image.Image = game.Players:GetUserThumbnailAsync(game.Players.LocalPlayer.UserId,Enum.ThumbnailType.HeadShot,Enum.ThumbnailSize.Size420x420)
+end
+coroutine.wrap(MXNI_fake_script)()
+local function WWHZW_fake_script() -- Submit.LocalScript 
+	local script = Instance.new('LocalScript', Submit)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Disabled = true
+		script.Click:Play()
+		wait(0.1)
+		script.Disabled = false
+	end)
+end
+coroutine.wrap(WWHZW_fake_script)()
+local function KUVN_fake_script() -- FlyX.LocalScript 
+	local script = Instance.new('LocalScript', FlyX)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Disabled = true
+		script.Click:Play()
+		wait(0.1)
+		script.Disabled = false
+	end)
+end
+coroutine.wrap(KUVN_fake_script)()
+local function GBMCQG_fake_script() -- AimlockQ.LocalScript 
+	local script = Instance.new('LocalScript', AimlockQ)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Disabled = true
+		script.Click:Play()
+		wait(0.1)
+		script.Disabled = false
+	end)
+end
+coroutine.wrap(GBMCQG_fake_script)()
+local function SGHOHO_fake_script() -- SwagMode.LocalScript 
+	local script = Instance.new('LocalScript', SwagMode)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Disabled = true
+		script.Click:Play()
+		wait(0.1)
+		script.Disabled = false
+	end)
+end
+coroutine.wrap(SGHOHO_fake_script)()
+local function WHOXYTK_fake_script() -- Fadded.LocalScript 
+	local script = Instance.new('LocalScript', Fadded)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Disabled = true
+		script.Click:Play()
+		wait(0.1)
+		script.Disabled = false
+	end)
+end
+coroutine.wrap(WHOXYTK_fake_script)()
