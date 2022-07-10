@@ -1,0 +1,862 @@
+local PremiumUI = Instance.new("ScreenGui")
+local Main = Instance.new("Frame")
+local UIGradient = Instance.new("UIGradient")
+local MainFrame = Instance.new("Frame")
+local UIGradient_2 = Instance.new("UIGradient")
+local PremTextLable = Instance.new("TextLabel")
+local UIGradient_3 = Instance.new("UIGradient")
+local Frame = Instance.new("Frame")
+local FlyButton = Instance.new("TextButton")
+local UIGradient_4 = Instance.new("UIGradient")
+local ResetButton = Instance.new("TextButton")
+local UIGradient_5 = Instance.new("UIGradient")
+local UIPadding = Instance.new("UIPadding")
+local DHCounterButton = Instance.new("TextButton")
+local UIGradient_6 = Instance.new("UIGradient")
+local AutoClickButton = Instance.new("TextButton")
+local UIGradient_7 = Instance.new("UIGradient")
+local PremTextLable_2 = Instance.new("TextLabel")
+local UIGradient_8 = Instance.new("UIGradient")
+local MainTitle = Instance.new("TextLabel")
+local UIGradient_9 = Instance.new("UIGradient")
+local BackMain = Instance.new("TextButton")
+local UIGradient_10 = Instance.new("UIGradient")
+local TeleportsFrame = Instance.new("Frame")
+local UIGradient_11 = Instance.new("UIGradient")
+local PremTextLable_3 = Instance.new("TextLabel")
+local UIGradient_12 = Instance.new("UIGradient")
+local Frame_2 = Instance.new("Frame")
+local BankButton = Instance.new("TextButton")
+local UIGradient_13 = Instance.new("UIGradient")
+local AdminButton = Instance.new("TextButton")
+local UIGradient_14 = Instance.new("UIGradient")
+local UIPadding_2 = Instance.new("UIPadding")
+local TrainButton = Instance.new("TextButton")
+local UIGradient_15 = Instance.new("UIGradient")
+local KlubButton = Instance.new("TextButton")
+local UIGradient_16 = Instance.new("UIGradient")
+local TeleportsTitle = Instance.new("TextLabel")
+local UIGradient_17 = Instance.new("UIGradient")
+local BackTP = Instance.new("TextButton")
+local UIGradient_18 = Instance.new("UIGradient")
+local CMDSFrame = Instance.new("Frame")
+local UIGradient_19 = Instance.new("UIGradient")
+local PremTextLable_4 = Instance.new("TextLabel")
+local UIGradient_20 = Instance.new("UIGradient")
+local CmdsTitle = Instance.new("TextLabel")
+local UIGradient_21 = Instance.new("UIGradient")
+local BackCMDS = Instance.new("TextButton")
+local UIGradient_22 = Instance.new("UIGradient")
+local CopyCMDS = Instance.new("TextButton")
+local UIGradient_23 = Instance.new("UIGradient")
+local PremTextLable_5 = Instance.new("TextLabel")
+local UIGradient_24 = Instance.new("UIGradient")
+local HomeFrame = Instance.new("Frame")
+local UIGradient_25 = Instance.new("UIGradient")
+local CmdsButton = Instance.new("TextButton")
+local UIGradient_26 = Instance.new("UIGradient")
+local MainButton = Instance.new("TextButton")
+local UIGradient_27 = Instance.new("UIGradient")
+local TeleportsButton = Instance.new("TextButton")
+local UIGradient_28 = Instance.new("UIGradient")
+local PremTextLable_6 = Instance.new("TextLabel")
+local UIGradient_29 = Instance.new("UIGradient")
+local Welcome = Instance.new("TextLabel")
+local UIGradient_30 = Instance.new("UIGradient")
+local CloseAll = Instance.new("TextButton")
+local UIGradient_31 = Instance.new("UIGradient")
+
+
+PremiumUI.Name = "PremiumUI"
+PremiumUI.Parent = game.CoreGui
+
+Main.Name = "Main"
+Main.Parent = PremiumUI
+Main.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+Main.BorderSizePixel = 0
+Main.Position = UDim2.new(0.377976209, 0, 0.348157555, 0)
+Main.Size = UDim2.new(0, 410, 0, 239)
+
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient.Parent = Main
+
+MainFrame.Name = "MainFrame"
+MainFrame.Parent = Main
+MainFrame.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+MainFrame.BackgroundTransparency = 1.000
+MainFrame.BorderSizePixel = 0
+MainFrame.Position = UDim2.new(-7.25663267e-05, 0, -0.00330686569, 0)
+MainFrame.Size = UDim2.new(0, 410, 0, 239)
+MainFrame.Visible = false
+
+UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_2.Parent = MainFrame
+
+PremTextLable.Name = "PremTextLable"
+PremTextLable.Parent = MainFrame
+PremTextLable.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable.BackgroundTransparency = 1.000
+PremTextLable.Position = UDim2.new(0.00243902206, 0, 0, 0)
+PremTextLable.Size = UDim2.new(0, 212, 0, 27)
+PremTextLable.Font = Enum.Font.SourceSans
+PremTextLable.Text = "HE Control Premium v.02"
+PremTextLable.TextColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable.TextScaled = true
+PremTextLable.TextSize = 14.000
+PremTextLable.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable.TextWrapped = true
+
+UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_3.Parent = PremTextLable
+
+Frame.Parent = MainFrame
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundTransparency = 1.000
+Frame.Position = UDim2.new(0.00251152227, 0, 0.138075307, 0)
+Frame.Size = UDim2.new(0, 408, 0, 206)
+
+FlyButton.Name = "FlyButton"
+FlyButton.Parent = Frame
+FlyButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+FlyButton.BorderSizePixel = 0
+FlyButton.Position = UDim2.new(-0.000121604418, 0, 0.189359441, 0)
+FlyButton.Size = UDim2.new(0, 177, 0, 42)
+FlyButton.Font = Enum.Font.SourceSans
+FlyButton.Text = "Fly [X]"
+FlyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+FlyButton.TextSize = 33.000
+FlyButton.TextWrapped = true
+FlyButton.MouseButton1Down:connect(function()
+	local L_152_
+	local L_153_ = game.Players.LocalPlayer
+	IYMouse = L_153_:GetMouse()
+	IYMouse.KeyDown:connect(
+		function(L_154_arg0)
+			if L_154_arg0 == "x" then
+				if L_152_ then
+					L_152_ = false
+					fly()
+				else
+					L_152_ = true
+					NOFLY()
+				end
+			end
+		end
+	)
+	for L_155_forvar0, L_156_forvar1 in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+		if L_156_forvar1:IsA("BasePart") and L_156_forvar1.CanCollide == true then
+			L_156_forvar1.CanCollide = false
+		end
+	end
+	FLYING = false
+	QEfly = true
+	iyflyspeed = 7
+	vehicleflyspeed = 7
+	function sFLY(L_157_arg0)
+		repeat
+			wait()
+		until game.Players.LocalPlayer and game.Players.LocalPlayer.Character and
+			game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+		repeat
+			wait()
+		until IYMouse
+		local L_158_ = game.Players.LocalPlayer.Character.LowerTorso
+		local L_159_ = {
+			F = 0,
+			B = 0,
+			L = 0,
+			R = 0,
+			Q = 0,
+			E = 0
+		}
+		local L_160_ = {
+			F = 0,
+			B = 0,
+			L = 0,
+			R = 0,
+			Q = 0,
+			E = 0
+		}
+		local L_161_ = 5
+		local function L_162_func()
+			FLYING = true
+			local L_163_ = Instance.new("BodyGyro", L_158_)
+			local L_164_ = Instance.new("BodyVelocity", L_158_)
+			L_163_.P = 9e4
+			L_163_.maxTorque = Vector3.new(9e9, 9e9, 9e9)
+			L_163_.cframe = L_158_.CFrame
+			L_164_.velocity = Vector3.new(0, 0, 0)
+			L_164_.maxForce = Vector3.new(9e9, 9e9, 9e9)
+			spawn(
+				function()
+					repeat
+						wait()
+						if not L_157_arg0 and game.Players.LocalPlayer.Character:FindFirstChildOfClass("Humanoid") then
+							game.Players.LocalPlayer.Character:FindFirstChildOfClass("Humanoid").PlatformStand =
+								true
+						end
+						if L_159_.L + L_159_.R ~= 0 or L_159_.F + L_159_.B ~= 0 or L_159_.Q + L_159_.E ~= 0 then
+							L_161_ = 50
+						elseif not (L_159_.L + L_159_.R ~= 0 or L_159_.F + L_159_.B ~= 0 or L_159_.Q + L_159_.E ~= 0) and L_161_ ~= 0 then
+							L_161_ = 0
+						end
+						if L_159_.L + L_159_.R ~= 0 or L_159_.F + L_159_.B ~= 0 or L_159_.Q + L_159_.E ~= 0 then
+							L_164_.velocity =
+								(workspace.CurrentCamera.CoordinateFrame.lookVector * (L_159_.F + L_159_.B) +
+									workspace.CurrentCamera.CoordinateFrame *
+									CFrame.new(L_159_.L + L_159_.R, (L_159_.F + L_159_.B + L_159_.Q + L_159_.E) * 0.2, 0).p -
+									workspace.CurrentCamera.CoordinateFrame.p) *
+								L_161_
+							L_160_ = {
+								F = L_159_.F,
+								B = L_159_.B,
+								L = L_159_.L,
+								R = L_159_.R
+							}
+						elseif L_159_.L + L_159_.R == 0 and L_159_.F + L_159_.B == 0 and L_159_.Q + L_159_.E == 0 and L_161_ ~= 0 then
+							L_164_.velocity =
+								(workspace.CurrentCamera.CoordinateFrame.lookVector * (L_160_.F + L_160_.B) +
+									workspace.CurrentCamera.CoordinateFrame *
+									CFrame.new(L_160_.L + L_160_.R, (L_160_.F + L_160_.B + L_159_.Q + L_159_.E) * 0.2, 0).p -
+									workspace.CurrentCamera.CoordinateFrame.p) *
+								L_161_
+						else
+							L_164_.velocity = Vector3.new(0, 0, 0)
+						end
+						L_163_.cframe = workspace.CurrentCamera.CoordinateFrame
+					until not FLYING
+					L_159_ = {
+						F = 0,
+						B = 0,
+						L = 0,
+						R = 0,
+						Q = 0,
+						E = 0
+					}
+					L_160_ = {
+						F = 0,
+						B = 0,
+						L = 0,
+						R = 0,
+						Q = 0,
+						E = 0
+					}
+					L_161_ = 0
+					L_163_:destroy()
+					L_164_:destroy()
+					if game.Players.LocalPlayer.Character:FindFirstChildOfClass("Humanoid") then
+						game.Players.LocalPlayer.Character:FindFirstChildOfClass("Humanoid").PlatformStand = false
+					end
+				end
+			)
+		end
+		IYMouse.KeyDown:connect(
+			function(L_165_arg0)
+				if L_165_arg0:lower() == "w" then
+					if L_157_arg0 then
+						L_159_.F = vehicleflyspeed
+					else
+						L_159_.F = iyflyspeed
+					end
+				elseif L_165_arg0:lower() == "s" then
+					if L_157_arg0 then
+						L_159_.B = -vehicleflyspeed
+					else
+						L_159_.B = -iyflyspeed
+					end
+				elseif L_165_arg0:lower() == "a" then
+					if L_157_arg0 then
+						L_159_.L = -vehicleflyspeed
+					else
+						L_159_.L = -iyflyspeed
+					end
+				elseif L_165_arg0:lower() == "d" then
+					if L_157_arg0 then
+						L_159_.R = vehicleflyspeed
+					else
+						L_159_.R = iyflyspeed
+					end
+				elseif QEfly and L_165_arg0:lower() == "e" then
+					if L_157_arg0 then
+						L_159_.Q = vehicleflyspeed * 2
+					else
+						L_159_.Q = iyflyspeed * 2
+					end
+				elseif QEfly and L_165_arg0:lower() == "q" then
+					if L_157_arg0 then
+						L_159_.E = -vehicleflyspeed * 2
+					else
+						L_159_.E = -iyflyspeed * 2
+					end
+				end
+			end
+		)
+		IYMouse.KeyUp:connect(
+			function(L_166_arg0)
+				if L_166_arg0:lower() == "w" then
+					L_159_.F = 0
+				elseif L_166_arg0:lower() == "s" then
+					L_159_.B = 0
+				elseif L_166_arg0:lower() == "a" then
+					L_159_.L = 0
+				elseif L_166_arg0:lower() == "d" then
+					L_159_.R = 0
+				elseif L_166_arg0:lower() == "e" then
+					L_159_.Q = 0
+				elseif L_166_arg0:lower() == "q" then
+					L_159_.E = 0
+				end
+			end
+		)
+		L_162_func()
+	end
+	function NOFLY()
+		FLYING = false
+		game.Players.LocalPlayer.Character:FindFirstChildOfClass("Humanoid").PlatformStand = true
+	end
+	function fly()
+		NOFLY()
+		wait()
+		sFLY()
+	end
+end)
+UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_4.Parent = FlyButton
+
+ResetButton.Name = "ResetButton"
+ResetButton.Parent = Frame
+ResetButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+ResetButton.BorderSizePixel = 0
+ResetButton.Position = UDim2.new(0.503741145, 0, 0.189359441, 0)
+ResetButton.Size = UDim2.new(0, 182, 0, 42)
+ResetButton.Font = Enum.Font.SourceSans
+ResetButton.Text = "Reset"
+ResetButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+ResetButton.TextSize = 33.000
+ResetButton.TextWrapped = true
+ResetButton.MouseButton1Down:connect(function()
+	for i, v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+		if v:IsA("BasePart") then
+			v:Destroy()
+		end
+	end
+end)
+UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_5.Parent = ResetButton
+
+UIPadding.Parent = Frame
+UIPadding.PaddingLeft = UDim.new(0, 15)
+UIPadding.PaddingTop = UDim.new(0, 5)
+
+DHCounterButton.Name = "DHCounterButton"
+DHCounterButton.Parent = Frame
+DHCounterButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+DHCounterButton.BorderSizePixel = 0
+DHCounterButton.Position = UDim2.new(-0.000121604418, 0, 0.562493801, 0)
+DHCounterButton.Size = UDim2.new(0, 177, 0, 42)
+DHCounterButton.Font = Enum.Font.SourceSans
+DHCounterButton.Text = "DH Money Counter"
+DHCounterButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+DHCounterButton.TextSize = 24.000
+DHCounterButton.TextWrapped = true
+DHCounterButton.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/OG5/IkuScripts/main/DH/MoneyCounter', true))()
+end)
+UIGradient_6.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_6.Parent = DHCounterButton
+
+AutoClickButton.Name = "AutoClickButton"
+AutoClickButton.Parent = Frame
+AutoClickButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+AutoClickButton.BorderSizePixel = 0
+AutoClickButton.Position = UDim2.new(0.508784235, 0, 0.562493801, 0)
+AutoClickButton.Size = UDim2.new(0, 177, 0, 42)
+AutoClickButton.Font = Enum.Font.SourceSans
+AutoClickButton.Text = "Auto Clicker [V]"
+AutoClickButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+AutoClickButton.TextSize = 24.000
+AutoClickButton.TextWrapped = true
+AutoClickButton.MouseButton1Down:connect(function()
+	local Player = game:GetService("Players").LocalPlayer
+	local Mouse = Player:GetMouse()
+	local Clicking = false
+	Mouse.KeyDown:Connect(function(Key)
+		if Key == "v" then
+			Clicking = not Clicking
+			if Clicking == true then
+				repeat
+					mouse1click()
+					wait(0.001)
+				until Clicking == false
+			end
+		end
+	end)
+end)
+UIGradient_7.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_7.Parent = AutoClickButton
+
+PremTextLable_2.Name = "PremTextLable"
+PremTextLable_2.Parent = MainFrame
+PremTextLable_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_2.BackgroundTransparency = 1.000
+PremTextLable_2.Position = UDim2.new(0.24390243, 0, 0.841004193, 0)
+PremTextLable_2.Size = UDim2.new(0, 212, 0, 27)
+PremTextLable_2.ZIndex = 0
+PremTextLable_2.Font = Enum.Font.SourceSans
+PremTextLable_2.Text = "More Buttons Soon"
+PremTextLable_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_2.TextScaled = true
+PremTextLable_2.TextSize = 14.000
+PremTextLable_2.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_2.TextWrapped = true
+
+UIGradient_8.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_8.Parent = PremTextLable_2
+
+MainTitle.Name = "MainTitle"
+MainTitle.Parent = MainFrame
+MainTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MainTitle.BackgroundTransparency = 1.000
+MainTitle.Position = UDim2.new(0.241463408, 0, 0.11297071, 0)
+MainTitle.Size = UDim2.new(0, 212, 0, 37)
+MainTitle.Font = Enum.Font.SourceSans
+MainTitle.Text = "Main"
+MainTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+MainTitle.TextScaled = true
+MainTitle.TextSize = 14.000
+MainTitle.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+MainTitle.TextWrapped = true
+
+UIGradient_9.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_9.Parent = MainTitle
+
+BackMain.Name = "BackMain"
+BackMain.Parent = MainFrame
+BackMain.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+BackMain.BorderSizePixel = 0
+BackMain.Position = UDim2.new(0.843974769, 0, 0.00539905764, 0)
+BackMain.Size = UDim2.new(0, 64, 0, 25)
+BackMain.Font = Enum.Font.SourceSans
+BackMain.Text = "Back"
+BackMain.TextColor3 = Color3.fromRGB(255, 255, 255)
+BackMain.TextSize = 20.000
+BackMain.TextWrapped = true
+BackMain.MouseButton1Down:connect(function()
+	MainFrame.Visible = false
+	TeleportsFrame.Visible = false
+	CMDSFrame.Visible = false
+	HomeFrame.Visible = true
+end)
+UIGradient_10.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_10.Parent = BackMain
+
+TeleportsFrame.Name = "TeleportsFrame"
+TeleportsFrame.Parent = Main
+TeleportsFrame.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+TeleportsFrame.BackgroundTransparency = 1.000
+TeleportsFrame.BorderSizePixel = 0
+TeleportsFrame.Position = UDim2.new(-0.00251159072, 0, -0.00330686569, 0)
+TeleportsFrame.Size = UDim2.new(0, 410, 0, 239)
+TeleportsFrame.Visible = false
+
+UIGradient_11.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_11.Parent = TeleportsFrame
+
+PremTextLable_3.Name = "PremTextLable"
+PremTextLable_3.Parent = TeleportsFrame
+PremTextLable_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_3.BackgroundTransparency = 1.000
+PremTextLable_3.Position = UDim2.new(0.00243902206, 0, 0, 0)
+PremTextLable_3.Size = UDim2.new(0, 212, 0, 27)
+PremTextLable_3.Font = Enum.Font.SourceSans
+PremTextLable_3.Text = "HE Control Premium v.02"
+PremTextLable_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_3.TextScaled = true
+PremTextLable_3.TextSize = 14.000
+PremTextLable_3.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_3.TextWrapped = true
+
+UIGradient_12.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_12.Parent = PremTextLable_3
+
+Frame_2.Parent = TeleportsFrame
+Frame_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_2.BackgroundTransparency = 1.000
+Frame_2.Position = UDim2.new(0.00251152227, 0, 0.138075307, 0)
+Frame_2.Size = UDim2.new(0, 408, 0, 206)
+
+BankButton.Name = "BankButton"
+BankButton.Parent = Frame_2
+BankButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+BankButton.BorderSizePixel = 0
+BankButton.Position = UDim2.new(-0.00266613369, 0, 0.189359441, 0)
+BankButton.Size = UDim2.new(0, 177, 0, 42)
+BankButton.Font = Enum.Font.SourceSans
+BankButton.Text = "Bank"
+BankButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+BankButton.TextSize = 33.000
+BankButton.TextWrapped = true
+BankButton.MouseButton1Down:connect(function()
+	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-396.49292, 21.7499943, -310.427216, -0.0184551962, -5.73512402e-08, -0.99982971, 3.63223229e-08, 1, -5.8031457e-08, 0.99982971, -3.7387121e-08, -0.0184551962)
+end)
+UIGradient_13.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_13.Parent = BankButton
+
+AdminButton.Name = "AdminButton"
+AdminButton.Parent = Frame_2
+AdminButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+AdminButton.BorderSizePixel = 0
+AdminButton.Position = UDim2.new(0.501196623, 0, 0.189359441, 0)
+AdminButton.Size = UDim2.new(0, 182, 0, 42)
+AdminButton.Font = Enum.Font.SourceSans
+AdminButton.Text = "Admin"
+AdminButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+AdminButton.TextSize = 33.000
+AdminButton.TextWrapped = true
+AdminButton.MouseButton1Down:connect(function()
+	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-871.956604, -32.6492004, -533.43103, 0.999914229, 5.46420864e-08, -0.0130961714, -5.48007577e-08, 1, -1.17571588e-08, 0.0130961714, 1.24738309e-08, 0.999914229)
+end)
+UIGradient_14.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_14.Parent = AdminButton
+
+UIPadding_2.Parent = Frame_2
+UIPadding_2.PaddingLeft = UDim.new(0, 15)
+UIPadding_2.PaddingTop = UDim.new(0, 5)
+
+TrainButton.Name = "TrainButton"
+TrainButton.Parent = Frame_2
+TrainButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+TrainButton.BorderSizePixel = 0
+TrainButton.Position = UDim2.new(-0.00266613369, 0, 0.562493801, 0)
+TrainButton.Size = UDim2.new(0, 177, 0, 42)
+TrainButton.Font = Enum.Font.SourceSans
+TrainButton.Text = "Train"
+TrainButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TrainButton.TextSize = 33.000
+TrainButton.TextWrapped = true
+TrainButton.MouseButton1Down:connect(function()
+	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(603.21582, 47.9999886, -107.60125, 0.71318239, -1.41176741e-08, 0.700978518, -2.27218138e-08, 1, 4.32573479e-08, -0.700978518, -4.67778811e-08, 0.71318239)
+end)
+UIGradient_15.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_15.Parent = TrainButton
+
+KlubButton.Name = "KlubButton"
+KlubButton.Parent = Frame_2
+KlubButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+KlubButton.BorderSizePixel = 0
+KlubButton.Position = UDim2.new(0.506239712, 0, 0.562493801, 0)
+KlubButton.Size = UDim2.new(0, 177, 0, 42)
+KlubButton.Font = Enum.Font.SourceSans
+KlubButton.Text = "Klub"
+KlubButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+KlubButton.TextSize = 33.000
+KlubButton.TextWrapped = true
+KlubButton.MouseButton1Down:connect(function()
+	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-264.476074, 0.0313372463, -330.926666, 0.999596536, 2.84898416e-09, -0.02840323, -1.14975551e-09, 1, 5.98415184e-08, 0.02840323, -5.97847176e-08, 0.999596536)
+end)
+UIGradient_16.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_16.Parent = KlubButton
+
+TeleportsTitle.Name = "TeleportsTitle"
+TeleportsTitle.Parent = TeleportsFrame
+TeleportsTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TeleportsTitle.BackgroundTransparency = 1.000
+TeleportsTitle.Position = UDim2.new(0.241463408, 0, 0.11297071, 0)
+TeleportsTitle.Size = UDim2.new(0, 212, 0, 37)
+TeleportsTitle.Font = Enum.Font.SourceSans
+TeleportsTitle.Text = "Teleports"
+TeleportsTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+TeleportsTitle.TextScaled = true
+TeleportsTitle.TextSize = 14.000
+TeleportsTitle.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+TeleportsTitle.TextWrapped = true
+
+UIGradient_17.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_17.Parent = TeleportsTitle
+
+BackTP.Name = "BackTP"
+BackTP.Parent = TeleportsFrame
+BackTP.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+BackTP.BorderSizePixel = 0
+BackTP.Position = UDim2.new(0.846413791, 0, 0.00539905764, 0)
+BackTP.Size = UDim2.new(0, 64, 0, 25)
+BackTP.Font = Enum.Font.SourceSans
+BackTP.Text = "Back"
+BackTP.TextColor3 = Color3.fromRGB(255, 255, 255)
+BackTP.TextSize = 20.000
+BackTP.TextWrapped = true
+BackTP.MouseButton1Down:connect(function()
+	MainFrame.Visible = false
+	TeleportsFrame.Visible = false
+	CMDSFrame.Visible = false
+	HomeFrame.Visible = true
+end)
+UIGradient_18.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_18.Parent = BackTP
+
+CMDSFrame.Name = "CMDSFrame"
+CMDSFrame.Parent = Main
+CMDSFrame.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+CMDSFrame.BackgroundTransparency = 1.000
+CMDSFrame.BorderSizePixel = 0
+CMDSFrame.Position = UDim2.new(-0.00251159072, 0, -0.00330686569, 0)
+CMDSFrame.Size = UDim2.new(0, 410, 0, 239)
+CMDSFrame.Visible = false
+
+UIGradient_19.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_19.Parent = CMDSFrame
+
+PremTextLable_4.Name = "PremTextLable"
+PremTextLable_4.Parent = CMDSFrame
+PremTextLable_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_4.BackgroundTransparency = 1.000
+PremTextLable_4.Position = UDim2.new(0.00243902206, 0, 0, 0)
+PremTextLable_4.Size = UDim2.new(0, 212, 0, 27)
+PremTextLable_4.Font = Enum.Font.SourceSans
+PremTextLable_4.Text = "HE Control Premium v.02"
+PremTextLable_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_4.TextScaled = true
+PremTextLable_4.TextSize = 14.000
+PremTextLable_4.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_4.TextWrapped = true
+
+UIGradient_20.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_20.Parent = PremTextLable_4
+
+CmdsTitle.Name = "CmdsTitle"
+CmdsTitle.Parent = CMDSFrame
+CmdsTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CmdsTitle.BackgroundTransparency = 1.000
+CmdsTitle.Position = UDim2.new(0.241463408, 0, 0.11297071, 0)
+CmdsTitle.Size = UDim2.new(0, 212, 0, 37)
+CmdsTitle.Font = Enum.Font.SourceSans
+CmdsTitle.Text = "CMDS"
+CmdsTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+CmdsTitle.TextScaled = true
+CmdsTitle.TextSize = 14.000
+CmdsTitle.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+CmdsTitle.TextWrapped = true
+
+UIGradient_21.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_21.Parent = CmdsTitle
+
+BackCMDS.Name = "BackCMDS"
+BackCMDS.Parent = CMDSFrame
+BackCMDS.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+BackCMDS.BorderSizePixel = 0
+BackCMDS.Position = UDim2.new(0.843974769, 0, 0.00539905764, 0)
+BackCMDS.Size = UDim2.new(0, 64, 0, 25)
+BackCMDS.Font = Enum.Font.SourceSans
+BackCMDS.Text = "Back"
+BackCMDS.TextColor3 = Color3.fromRGB(255, 255, 255)
+BackCMDS.TextSize = 20.000
+BackCMDS.TextWrapped = true
+BackCMDS.MouseButton1Down:connect(function()
+	MainFrame.Visible = false
+	TeleportsFrame.Visible = false
+	CMDSFrame.Visible = false
+	HomeFrame.Visible = true
+end)
+UIGradient_22.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_22.Parent = BackCMDS
+
+CopyCMDS.Name = "CopyCMDS"
+CopyCMDS.Parent = CMDSFrame
+CopyCMDS.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+CopyCMDS.BorderSizePixel = 0
+CopyCMDS.Position = UDim2.new(0.126901612, 0, 0.557700217, 0)
+CopyCMDS.Size = UDim2.new(0, 304, 0, 48)
+CopyCMDS.Font = Enum.Font.SourceSans
+CopyCMDS.Text = "Copy"
+CopyCMDS.TextColor3 = Color3.fromRGB(255, 255, 255)
+CopyCMDS.TextSize = 32.000
+CopyCMDS.TextWrapped = true
+CopyCMDS.MouseButton1Down:connect(function()
+	setclipboard('https://raw.githubusercontent.com/hilfig3r/He-Control/main/settings/main/premium-cmds')
+end)
+UIGradient_23.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_23.Parent = CopyCMDS
+
+PremTextLable_5.Name = "PremTextLable"
+PremTextLable_5.Parent = CMDSFrame
+PremTextLable_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_5.BackgroundTransparency = 1.000
+PremTextLable_5.Position = UDim2.new(0.126901612, 0, 0.347280353, 0)
+PremTextLable_5.Size = UDim2.new(0, 303, 0, 30)
+PremTextLable_5.Font = Enum.Font.SourceSans
+PremTextLable_5.Text = "Click copy to copy the CMDS"
+PremTextLable_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_5.TextScaled = true
+PremTextLable_5.TextSize = 14.000
+PremTextLable_5.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_5.TextWrapped = true
+
+UIGradient_24.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_24.Parent = PremTextLable_5
+
+HomeFrame.Name = "HomeFrame"
+HomeFrame.Parent = Main
+HomeFrame.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+HomeFrame.BackgroundTransparency = 1.000
+HomeFrame.BorderSizePixel = 0
+HomeFrame.Position = UDim2.new(-0.00251159072, 0, -0.00330686569, 0)
+HomeFrame.Size = UDim2.new(0, 410, 0, 239)
+
+UIGradient_25.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_25.Parent = HomeFrame
+
+CmdsButton.Name = "CmdsButton"
+CmdsButton.Parent = HomeFrame
+CmdsButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+CmdsButton.BorderSizePixel = 0
+CmdsButton.Position = UDim2.new(0.112195119, 0, 0.736401677, 0)
+CmdsButton.Size = UDim2.new(0, 317, 0, 42)
+CmdsButton.Font = Enum.Font.SourceSans
+CmdsButton.Text = "He Control CMDS"
+CmdsButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+CmdsButton.TextSize = 33.000
+CmdsButton.TextWrapped = true
+CmdsButton.MouseButton1Down:connect(function()
+	MainFrame.Visible = false
+	TeleportsFrame.Visible = false
+	CMDSFrame.Visible = true
+	HomeFrame.Visible = false
+end)
+UIGradient_26.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_26.Parent = CmdsButton
+
+MainButton.Name = "MainButton"
+MainButton.Parent = HomeFrame
+MainButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+MainButton.BorderSizePixel = 0
+MainButton.Position = UDim2.new(0.112195134, 0, 0.472803354, 0)
+MainButton.Size = UDim2.new(0, 152, 0, 42)
+MainButton.Font = Enum.Font.SourceSans
+MainButton.Text = "Main"
+MainButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+MainButton.TextSize = 33.000
+MainButton.TextWrapped = true
+MainButton.MouseButton1Down:connect(function()
+	MainFrame.Visible = true
+	TeleportsFrame.Visible = false
+	CMDSFrame.Visible = false
+	HomeFrame.Visible = false
+end)
+UIGradient_27.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_27.Parent = MainButton
+
+TeleportsButton.Name = "TeleportsButton"
+TeleportsButton.Parent = HomeFrame
+TeleportsButton.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+TeleportsButton.BorderSizePixel = 0
+TeleportsButton.Position = UDim2.new(0.514967859, 0, 0.472803354, 0)
+TeleportsButton.Size = UDim2.new(0, 152, 0, 42)
+TeleportsButton.Font = Enum.Font.SourceSans
+TeleportsButton.Text = "Teleports"
+TeleportsButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TeleportsButton.TextSize = 33.000
+TeleportsButton.TextWrapped = true
+TeleportsButton.MouseButton1Down:connect(function()
+	MainFrame.Visible = false
+	TeleportsFrame.Visible = true
+	CMDSFrame.Visible = false
+	HomeFrame.Visible = false
+end)
+UIGradient_28.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_28.Parent = TeleportsButton
+
+PremTextLable_6.Name = "PremTextLable"
+PremTextLable_6.Parent = HomeFrame
+PremTextLable_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_6.BackgroundTransparency = 1.000
+PremTextLable_6.Position = UDim2.new(0.239024386, 0, 0.100418404, 0)
+PremTextLable_6.Size = UDim2.new(0, 212, 0, 27)
+PremTextLable_6.Font = Enum.Font.SourceSans
+PremTextLable_6.Text = "HE Control Premium v.02"
+PremTextLable_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_6.TextScaled = true
+PremTextLable_6.TextSize = 14.000
+PremTextLable_6.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+PremTextLable_6.TextWrapped = true
+
+UIGradient_29.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_29.Parent = PremTextLable_6
+
+Welcome.Name = "Welcome"
+Welcome.Parent = HomeFrame
+Welcome.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Welcome.BackgroundTransparency = 1.000
+Welcome.Position = UDim2.new(0.0926829427, 0, 0.213389128, 0)
+Welcome.Size = UDim2.new(0, 336, 0, 38)
+Welcome.Font = Enum.Font.SourceSans
+Welcome.Text = "Welcome Seller, "..game.Players.LocalPlayer.Name..""
+Welcome.TextColor3 = Color3.fromRGB(255, 255, 255)
+Welcome.TextScaled = true
+Welcome.TextSize = 14.000
+Welcome.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+Welcome.TextWrapped = true
+
+UIGradient_30.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_30.Parent = Welcome
+
+CloseAll.Name = "CloseAll"
+CloseAll.Parent = HomeFrame
+CloseAll.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+CloseAll.BorderSizePixel = 0
+CloseAll.Position = UDim2.new(0.843974769, 0, 0.00539905764, 0)
+CloseAll.Size = UDim2.new(0, 64, 0, 25)
+CloseAll.Font = Enum.Font.SourceSans
+CloseAll.Text = "Close"
+CloseAll.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseAll.TextSize = 20.000
+CloseAll.TextWrapped = true
+CloseAll.MouseButton1Down:connect(function()
+	Main.Visible = false
+end)
+UIGradient_31.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(176, 176, 176))}
+UIGradient_31.Parent = CloseAll
+
+-- Scripts:
+
+local function SNVJYGV_fake_script() -- Main.Drag 
+	local script = Instance.new('LocalScript', Main)
+
+	local UIS = game:GetService("UserInputService")
+	function dragify(Frame)
+	    dragToggle = nil
+	    local dragSpeed = 0
+	    dragInput = nil
+	    dragStart = nil
+	    local dragPos = nil
+	    function updateInput(input)
+	        local Delta = input.Position - dragStart
+	        local Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+	        game:GetService("TweenService"):Create(Frame, TweenInfo.new(0.25), {Position = Position}):Play()
+	    end
+	    Frame.InputBegan:Connect(function(input)
+	        if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and UIS:GetFocusedTextBox() == nil then
+	            dragToggle = true
+	            dragStart = input.Position
+	            startPos = Frame.Position
+	            input.Changed:Connect(function()
+	                if input.UserInputState == Enum.UserInputState.End then
+	                    dragToggle = false
+	                end
+	            end)
+	        end
+	    end)
+	    Frame.InputChanged:Connect(function(input)
+	        if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+	            dragInput = input
+	        end
+	    end)
+	    game:GetService("UserInputService").InputChanged:Connect(function(input)
+	        if input == dragInput and dragToggle then
+	            updateInput(input)
+	        end
+	    end)
+	end
+	
+	dragify(script.Parent)
+end
+coroutine.wrap(SNVJYGV_fake_script)()
